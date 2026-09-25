@@ -108,51 +108,65 @@ sequenceDiagram
 
 ---
 
-### 4. Il Percorso Operativo: Lo "Sprint Risolutivo" (30–45 Giorni)
+### 4. Il Percorso Operativo: Lo "Sprint Risolutivo" (30–45 Giorni) e il Protocollo "Fast Win 14 Giorni"
 
-Lo Sprint Ariete non è un'analisi teorica che produce un voluminoso e inutile documento in PDF: è un **intervento di ingegneria operativa sul campo**, strutturato su 4 settimane intensive:
+Lo Sprint Ariete non è un'analisi teorica che produce un voluminoso e inutile documento in PDF: è un **intervento di ingegneria operativa sul campo**, scandito dal rigoroso **Protocollo "Fast Win 14 Giorni"**:
+
+> [!TIP]
+> **IL PROTOCOLLO "FAST WIN 14 GIORNI" — ROI VISIBILE E AZZERAMENTO RISCHIO**  
+> Per dissipare ogni diffidenza della proprietà e soddisfare a pieno la garanzia del "Patto di Lealtà", lo Sprint è ingegnerizzato su due checkpoint non negoziabili nelle prime due settimane:  
+> • **Giorno 5 (Bottleneck Confermato)**: Individuazione analitica e asseverazione dell'unico vincolo reale di throughput (WIP Pile e manometro organizzativo). Nessuna dispersione su sintomi secondari.  
+> • **Giorno 14 (Prima SOP & Dashboard Lanciata)**: Scrittura, affissione e collaudo sul campo della **prima Procedura Operativa Standard (SOP) monopagina** e attivazione della versione preliminare della **Daily Dashboard di controllo**, producendo un recupero immediato di tempo e certezza operativa entro sole due settimane dall'ingresso in azienda.
 
 ```mermaid
 flowchart TD
-    subgraph W1 ["Settimana 1: Isolamento del Vincolo & Disattivazione Conflitti"]
+    subgraph FW ["⚡ PROTOCOLLO FAST WIN 14 GIORNI"]
+        D5["🎯 Giorno 5: Bottleneck Confermato<br/><i>(Isolamento Vincolo Fisico ToC & Scheda Atomi)</i>"]
+        D14["🚀 Giorno 14: Fast Win Operativo<br/><i>(Prima SOP Monopagina & Dashboard Lanciata)</i>"]
+        D5 --> D14
+    end
+
+    subgraph W1 ["Settimana 1: Isolamento del Vincolo & Telemetria"]
         W1A["Audit dei Tempi Morti da Autorizzazione<br/><i>(Libro 1: Mappa del Potere di Blocco)</i>"]
-        W1B["Isolamento del Vincolo ToC Goldratt<br/><i>(Libro 2: Scheda Scomposizione Atomica)</i>"]
+        W1B["Isolamento del Vincolo ToC Goldratt<br/><i>(Giorno 5: Checkpoint Vincolo Confermato)</i>"]
     end
 
-    subgraph W2 ["Settimana 2: Riconfigurazione Flusso & Protocollo Gatekeeper"]
-        W2A["Istituzione Procedura Fermo Ordine<br/><i>(Checklist Commerciale-Produzione)</i>"]
-        W2B["Cut-Off Orario Rigido per Ordini e Logistica<br/><i>(Eliminazione Emergenze Fittizie)</i>"]
+    subgraph W2 ["Settimana 2: Fast Win & Protocollo Gatekeeper"]
+        W2A["Istituzione Procedura Fermo Ordine & Gatekeeper<br/><i>(Checklist Commerciale-Produzione)</i>"]
+        W2B["Rilascio 1ª SOP & Prima Dashboard Operativa<br/><i>(Giorno 14: Fast Win sul Campo)</i>"]
     end
 
-    subgraph W3 ["Settimana 3: Standardizzazione SOP & Automazione No-Code"]
-        W3A["Redazione e Rilascio SOP di Reparto<br/><i>(Procedure visive monopagina a prova di errore)</i>"]
+    subgraph W3 ["Settimana 3: Standardizzazione Flussi & Automazioni"]
+        W3A["Redazione e Rilascio SOP di Reparto Complete<br/><i>(Procedure visive monopagina a prova di errore)</i>"]
         W3B["Implementazione Automazioni & Connettori<br/><i>(Webhook/API Make-n8n con Partner IT)</i>"]
     end
 
     subgraph W4 ["Settimana 4: Addestramento, Daily Pulse Dashboard & Chiusura"]
         W4A["Addestramento Operativo di Reparto<br/><i>(Formazione su Sedia Operativa e SOP)</i>"]
-        W4B["Attivazione Daily Pulse Dashboard 5 Metriche<br/><i>(Telegram/CRM - Titolare libero)</i>"]
+        W4B["Attivazione Daily Pulse Dashboard Definitiva<br/><i>(Telegram/CRM - Titolare autonomo)</i>"]
     end
 
-    W1 --> W2 --> W3 --> W4
+    FW --> W1 --> W2 --> W3 --> W4
 ```
 
-#### Dettaglio delle 4 Settimane di Intervento:
-* **Settimana 1 — Isolamento del Vincolo & Telemetria di Reparto**:
+#### Dettaglio delle Fasi di Intervento:
+* **Settimana 1 — Isolamento del Vincolo & Checkpoint Giorno 5 (Bottleneck Confermato)**:
   * Applicazione del *Manometro Organizzativo* e della *Mappa Sociometrica del Potere di Blocco* per individuare i nodi informali non censiti che rallentano l'operatività;
   * Analisi cronometrica dei tempi di fermo e quantificazione delle perdite economiche da lavoro fantasma;
-  * Firma congiunta del *Verbale di Presa in Carico Sistemi IT e Asseverazione Preventiva di Backup* a cura esclusiva della Committente.
-* **Settimana 2 — Riprogettazione del Flusso & Protocollo Gatekeeper**:
+  * Firma congiunta del *Verbale di Presa in Carico Sistemi IT e Asseverazione Preventiva di Backup* a cura esclusiva della Committente;
+  * **Traguardo Giorno 5**: Consegna al Titolare del verbale sintetico di isolamento dell'unico vero vincolo ToC che limita il fatturato o satura le ore.
+* **Settimana 2 — Riprogettazione del Flusso & Checkpoint Giorno 14 (Fast Win Sul Campo)**:
   * Introduzione del protocollo *Gatekeeper Commerciale-Produzione*: divieto categorico per il commerciale di immettere in lavorazione ordini privi dei parametri tecnici minimi;
   * Fissazione dell'orario di *Cut-off Giornaliero* per le commesse e le spedizioni, bloccando l'innesco di urgenze arbitrarie;
-  * Riunione di decontaminazione emotiva (*Format Hot Seat Disattivato*) con i quadri di reparto per tradurre recriminazioni personali in modifiche di procedura.
+  * Riunione di decontaminazione emotiva (*Format Hot Seat Disattivato*) con i quadri di reparto per tradurre recriminazioni personali in modifiche di procedura;
+  * **Traguardo Giorno 14**: Rilascio della **prima SOP visuale monopagina** applicata al vincolo e lancio del cruscotto preliminare. L'imprenditore tocca con mano i primi risultati concreti prima di decidere sul rinnovo di fiducia.
 * **Settimana 3 — Standardizzazione Procedure (SOP) & Integrazione Automazioni**:
   * Scrittura e affissione nei reparti delle **Procedure Operative Standard (SOP)** monopagina, visuali e codificate;
   * In collaborazione con le Aziende Partner di distretto convenzionate con LBC (Software House, Automatori low-code), configurazione di webhook e connettori automatici per eliminare il doppio inserimento manuale tra ordini, fogli Excel e gestionale;
   * Collaudo operativo in ambiente protetto (*User Acceptance Testing - UAT*).
 * **Settimana 4 — Addestramento, Cruscotto di Controllo (Scorecard) & Chiusura**:
   * Formazione manageriale e operativa sul campo ai quadri e addetti coinvolti sull'adozione della nuova procedura;
-  * Rilascio al Titolare della **Daily Pulse Dashboard** (5 indicatori chiave non negoziabili inviati ogni mattina via Telegram/ERP: cassa liquida, ordini validati, commesse a rischio ritardo, ore lavorate a valore, scarti);
+  * Rilascio al Titolare della **Daily Pulse Dashboard** definitiva (5 indicatori chiave non negoziabili inviati ogni mattina via Telegram/ERP: cassa liquida, ordini validati, commesse a rischio ritardo, ore lavorate a valore, scarti);
   * Consegna della Relazione Tecnica Finale di Collaudo e proposta di estensione al percorso di qualificazione per il **Marchio Collettivo Etico LBC** promosso da **La Buona Community ETS - APS**.
 
 ---

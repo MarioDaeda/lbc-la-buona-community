@@ -4,6 +4,7 @@
 
 > **Documenti Correlati dell'Ecosistema LBC:**  
 > • [`ANALISI_CRITICA_RISCHI_E_SOLUZIONI.md`](file:///c:/Users/MARIO/Downloads/LBC%20La%20Buona%20Community/ANALISI_CRITICA_RISCHI_E_SOLUZIONI.md) — Risk Mitigation & Prevenzione Fallimenti  
+> • [`CONTRATTO_DI_RETE_LBC_NETWORK.md`](file:///c:/Users/MARIO/Downloads/LBC%20La%20Buona%20Community/CONTRATTO_DI_RETE_LBC_NETWORK.md) — Contratto di Rete Master Multilaterale (L. 33/2009 e L. 81/2017)  
 > • [`ACCORDO_PILOTA_DELTA_FATTURATO.md`](file:///c:/Users/MARIO/Downloads/LBC%20La%20Buona%20Community/ACCORDO_PILOTA_DELTA_FATTURATO.md) — Contratto Pilota Co-Sviluppo Retisti  
 > • [`OFFERTA_ARIETE_PMI.md`](file:///c:/Users/MARIO/Downloads/LBC%20La%20Buona%20Community/OFFERTA_ARIETE_PMI.md) — Offerta Commerciale Ariete e Sprint Processi  
 > • [`TARGET_SEGMENTATION_ANALYSIS.md`](file:///c:/Users/MARIO/Downloads/LBC%20La%20Buona%20Community/TARGET_SEGMENTATION_ANALYSIS.md) — Segmentazione PMI e Selezione Coorte  
@@ -57,38 +58,42 @@ flowchart TD
     CIT -->|"Quote associative annuali esenti (art. 85 c. 1 CTS)"| ETS
     ETS -->|"Tessera socio, divulgazione etica & percorsi consumo"| CIT
     GARANTI -->|"Istruttoria tecnica indipendente & parere vincolante"| ETS
-    ETS -->|"Concessione Licenza Marchio Collettivo (Disciplinare D.Lgs. 30/2026)"| PMI
-    ETS -.->|"Licenza d'uso istituzionale Marchio a Valore Normale (Art. 9 TUIR)"| SRL
+    ETS -->|"Concessione Gratuita Marchio Collettivo (Parere Vincolante Garanti)"| PMI
+    ETS -.->|"Licenza d'uso promozionale gratuita senza sub-licenza"| SRL
 ```
 
 #### Regole Auree di Segregazione Societaria, Fiscale e Contrattuale:
 1. **Costituzione Contestuale in Q1**: Sia la società commerciale `LBC Advisory & Growth S.r.l.` sia l'ente del terzo settore `La Buona Community ETS - APS` vengono costituiti e registrati nel primo trimestre di operatività. Viene categoricamente respinta l'idea di posticipare l'ente no-profit a trimestri successivi, azzerando sul nascere il rischio di decadenza fiscale (art. 149 TUIR), abuso del diritto ed elusione tributaria (art. 10-bis L. 212/2000).
 2. **Assoluta Separazione dei Flussi e Divieto di Promiscuità**: I conti correnti bancari, le scritture contabili, i registri IVA e i codici identificativi sono rigidamente distinti. L'ETS opera con proprio Codice Fiscale per il perseguimento delle finalità civiche, solidaristiche e di utilità sociale; la SRL opera con autonoma Partita IVA commerciale ordinaria e assume per intero il rischio operativo e risarcitorio delle commesse B2B.
-3. **Regolazione dei Rapporti Infragruppo a Valore Normale (Art. 9 TUIR)**: Qualsiasi interazione negoziale tra SRL ed ETS (es. licenza d'uso del marchio per finalità divulgative, supporto logistico o condivisione spazi) è regolata mediante contratti formali scritti con data certa, a corrispettivi allineati al valore normale di mercato comprovato da perizia terza, escludendo qualsiasi fatturazione simulata, sovrafatturazione o transito promiscuo di cassa.
+3. **Esclusione di Sub-Licenza Commerciale e Gestione Gratuita del Marchio**: La Buona Community ETS — APS è l'unica titolare ed esclusivo ente legittimato a rilasciare o revocare le licenze del Marchio Collettivo ex art. 11 CPI, a titolo rigorosamente gratuito, previo parere vincolante del Comitato dei Garanti e Probiviri. LBC Advisory & Growth S.r.l. è mera licenziataria non esclusiva per la promozione e divulgazione metodologica, priva di poteri di sub-licenza o intermediazione; nessun ricarico commerciale o royalty passa tra ETS ed SRL né viene addebitato a partner o imprese. Eventuali servizi logistici o convenzioni infragruppo residue sono regolate per iscritto a valore normale ex art. 9 TUIR.
 4. **Divieto di Organi Amministrativi Coincidenti e Distribuzione di Utili (Art. 8 CTS)**: L'Amministratore Unico o i membri del CdA della SRL non possono detenere la maggioranza del Consiglio Direttivo dell'ETS. È sancito statutariamente il divieto assoluto di distribuzione diretta o indiretta di utili, avanzi di gestione o riserve a fondatori, associati o amministratori.
+5. **Incompatibilità di Voto in Assemblea ETS per i Vertici della SRL**: I soci fondatori, i titolari di quote e gli amministratori di LBC Advisory & Growth S.r.l. non possono esercitare il diritto di voto nell'Assemblea Generale dell'ETS in merito alla nomina, elezione, conferma o revoca dei membri del Comitato dei Garanti e Probiviri, né possono fare parte di tale collegio, preservandone la totale indipendenza e terzietà di giudizio ex artt. 11 e 11-bis CPI e Direttiva (UE) 2024/825.
 
 ---
 
 ### 2. Inquadramento della Coorte nel Contratto di Rete (L. 33/2009 e L. 81/2017)
 
-La Coorte dei 10 Professionisti non costituisce un'aggregazione informale né un sodalizio promiscuo, bensì un formale **Contratto di Rete d'Imprese** (Rete-Contratto con Fondo Comune ex art. 3 commi 4-ter ss. D.L. 5/2009 conv. in L. 33/2009):
+La Coorte dei 10 Professionisti non costituisce un'aggregazione informale né un sodalizio promiscuo, bensì un formale **Contratto di Rete d'Imprese** (Rete-Contratto con Fondo Comune ex art. 3 commi 4-ter ss. D.L. 5/2009 conv. in L. 33/2009 e L. 81/2017), formalizzato nel master document [`CONTRATTO_DI_RETE_LBC_NETWORK.md`](file:///c:/Users/MARIO/Downloads/LBC%20La%20Buona%20Community/CONTRATTO_DI_RETE_LBC_NETWORK.md), sotto il quale ciascun partecipante stipula ed esegue il proprio accordo bilaterale di co-sviluppo:
 
 ```mermaid
 flowchart LR
     subgraph Governance_Rete ["Inquadramento Normativo della Rete LBC"]
         direction TB
         LEGGE["⚖️ Legge 81/2017 (Art. 12 c. 3 lett. a)<br/><i>Equiparazione dei lavoratori autonomi alle PMI per l'accesso alle reti</i>"]
-        CONTRATTO["📜 Rete-Contratto con Fondo Comune Segregato<br/><i>(Autonomia patrimoniale imperfetta ex art. 2615 c.c. - Zero P.IVA autonoma di Rete)</i>"]
+        CONTRATTO["📜 CONTRATTO DI RETE LBC NETWORK<br/><i>(Master Multilaterale ex L. 33/09 & L. 81/17 - Fondo Segregato art. 2615 c.c.)</i>"]
         CODATORIALITA["🤝 Codatorialità & Distacco di Rete<br/><i>(Art. 30 c. 4-ter D.Lgs. 276/03 & Circ. INL n. 7/2018)</i>"]
         ORGANO["🏛️ Organo Comune Gestore: LBC Advisory & Growth S.r.l.<br/><i>(Mandato con rappresentanza circoscritta al Programma di Rete)</i>"]
+        ACCORDO["📝 Accordi Bilaterali di Co-Sviluppo B2B<br/><i>(Eseguiti sotto il Master di Rete - Success-Fee Degressiva)</i>"]
     end
 
     LEGGE --> CONTRATTO
     CONTRATTO --> CODATORIALITA
     CONTRATTO --> ORGANO
+    CONTRATTO --> ACCORDO
 ```
 
 #### Esclusione Radicale delle Patologie Giuridiche:
+* **Esecuzione Vincolata al Master Framework di Rete**: Gli accordi bilaterali (`ACCORDO_PILOTA_DELTA_FATTURATO.md`) traggono causa e legittimazione direttamente dal Contratto di Rete Multilaterale (`CONTRATTO_DI_RETE_LBC_NETWORK.md`), il quale disciplina la comunione di scopo, il Fondo Comune segregato e le regole di codatorialità.
 * **Esclusione di Società di Fatto (SDF)**: L'adesione alla rete non conferisce diritti di voto assembleare nella SRL, non comporta conferimenti traslativi di capitale né commistione patrimoniale. Ciascun partner di rete risponde esclusivamente in proprio per i debiti professionali e fiscali, neutralizzando il rischio di estensione della liquidazione giudiziale ex art. 256 CCII.
 * **Esclusione di Associazione in Partecipazione (Art. 2549 c.c.)**: Non vi è apporto di capitale a fronte di partecipazione agli utili complessivi dell'impresa associante, bensì stipula di accordi bilaterali corrispettivi di sviluppo strategico e consulenza complessa.
 * **Esclusione di Somministrazione Abusiva e Appalto Non Genuino (D.L. 19/2024)**: I professionisti non sono "forniti" o "inseriti" come manodopera eterodiretta presso le PMI clienti. Operano in qualità di titolari autonomi d'opera intellettuale (art. 2222 c.c.) ovvero quali retisti operanti nell'ambito del programma comune di rete regolarmente iscritto al Registro delle Imprese, beneficiando del regime legale di codatorialità e distacco di rete (art. 30 c. 4-ter D.Lgs. 276/03 e Circolare INL n. 7/2018), preservando totale autonomia organizzativa, tecnica e gestionale.

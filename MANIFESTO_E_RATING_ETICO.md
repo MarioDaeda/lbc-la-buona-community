@@ -113,7 +113,7 @@ graph TB
 3. **Divieti Inderogabili di Segregazione e Assenza di Poteri sul Marchio**:
    * Per espresso vincolo statutario e regolamentare, **LBC Advisory & Growth S.r.l. NON è titolare del Marchio Collettivo, NON ha facoltà di concederlo, NON ha alcun potere di revoca e NON può commercializzare né vendere il Bollino Etico o il Rating LBC sotto alcuna forma negoziale**;
    * È fatto assoluto divieto di inserire la concessione del Marchio o la garanzia di un rating positivo all'interno dei contratti di consulenza commerciale stipulati dalla S.r.l. L'accesso al Marchio è rimesso unicamente all'istruttoria tecnica indipendente dell'Associazione ETS;
-   * Nessun socio, amministratore o dipendente della S.r.l. può fare parte del Comitato dei Garanti e del Rating Etico dell'Associazione no-profit.
+   * **Incompatibilità Assoluta e Divieto di Voto in Assemblea ETS**: Nessun socio fondatore, azionista/quotista, amministratore o dipendente di LBC Advisory & Growth S.r.l. può fare parte del Comitato dei Garanti e del Rating Etico o del Collegio dei Probiviri dell'Associazione no-profit, né può in alcun caso esercitare diritti di voto nell'Assemblea Generale dei soci di La Buona Community ETS — APS sulle delibere aventi ad oggetto l'elezione, la nomina, la conferma, la decadenza o la revoca dei membri del Comitato dei Garanti e Probiviri, a garanzia della totale terzietà ed indipendenza istituzionale dell'organo di controllo etico.
 
 ---
 

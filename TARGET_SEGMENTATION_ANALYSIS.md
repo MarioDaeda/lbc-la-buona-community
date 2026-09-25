@@ -209,7 +209,7 @@ xychart-beta
    * *10 pt*: Professionista individualista ma disposto ad accettare le regole comuni di rete.
    * *0 pt*: Conflittualità, gelosia informativa o atteggiamento speculativo / opportunistico.
 4. **Condivisione del Modello di Co-Sviluppo e Success-Fee a Scaglioni (Max 15 Punti)**:
-   * *15 pt*: Piena condivisione del meccanismo B2B: quota onboarding di € 500 + IVA e success-fee degressiva (10%-7%-5% con Cap a € 15.000) su fatturato incrementale netto SDI.
+   * *15 pt*: Piena condivisione del meccanismo B2B: quota onboarding di € 500 + IVA e success-fee degressiva (10%-7,5%-5% con Cap a € 15.000) su fatturato incrementale netto SDI.
    * *8 pt*: Esitazione iniziale ma disponibilità totale a seguito dell'esame del contratto blindato.
    * *0 pt*: Rifiuto della quota fissa iniziale o pretesa di non riconoscere alcuna percentuale sui risultati netti.
 5. **Asseverazione Contabile Base-Year & Allineamento al Manifesto Etico (Max 15 Punti)**:
@@ -256,7 +256,7 @@ L'architettura di LBC è incardinata sulla rigorosa coesistenza di due entità g
 flowchart TD
     subgraph DUAL_ENTITY ["Architettura Giuridica Rigorosa Dual-Entity"]
         subgraph FOR_PROFIT ["POLO FOR-PROFIT (Business & Advisory)"]
-            SRL["🏢 <b>LBC Advisory & Growth S.r.l.</b><br/>• Capitale Sociale interamente versato<br/>• Titolare dei contratti commerciali con le PMI<br/>• Fatturazione Sprint Ariete (€ 2.500 - € 4.500 + IVA)<br/>• Gestione Mastermind e Accordo Co-Sviluppo<br/>• Incasso Onboarding Fee (€ 500) e Success-Fee (10%-7%-5%)<br/>• Risk Management e Liability Cap contrattuale"]
+            SRL["🏢 <b>LBC Advisory & Growth S.r.l.</b><br/>• Capitale Sociale interamente versato<br/>• Titolare dei contratti commerciali con le PMI<br/>• Fatturazione Sprint Ariete (€ 2.500 - € 4.500 + IVA)<br/>• Gestione Mastermind e Accordo Co-Sviluppo<br/>• Incasso Onboarding Fee (€ 500) e Success-Fee (10%-7,5%-5%)<br/>• Risk Management e Liability Cap contrattuale"]
         end
         subgraph NO_PROFIT ["POLO NO-PROFIT (Terzo Settore & Etica)"]
             ETS["🌱 <b>La Buona Community ETS - APS</b><br/>• Iscritta al Registro Unico Nazionale Terzo Settore (RUNTS)<br/>• Titolare del Marchio Collettivo Etico LBC registrato (CPI)<br/>• Collegio dei Garanti Terzi Indipendenti (delibera imparziale licenza marchio)<br/>• Educazione al consumo etico e filiere corte<br/>• Tesseramento soci (€ 30/anno) & Corsi d'aula istituzionali (€ 30/mese)<br/>• Patrimonio autonomo non distribuibile (art. 8 CTS)"]
@@ -280,7 +280,7 @@ flowchart TD
 | **Grandi Imprese & PMI Target** | Apertura dei reparti per l'audit dei flussi, trasparenza sui dati operativi, budget per l'efficientamento. | Eliminazione del vincolo di processo, rilascio SOP monopagina, scorecard visiva (Daily Pulse), accesso all'istruttoria per il Marchio Etico. | Saldano gli Sprint Ariete (€ 2.500 - € 4.500 + IVA) fatturati da LBC Advisory S.r.l.; saldano eventuali moduli tecnici o canoni software direttamente alle aziende partner. |
 | **Aziende Partner (IT / Low-Code / Marketing)** | Infrastrutture tecnologiche, canoni retainer convenzionati, collaudo rapido dei connettori negli Sprint. | Flusso continuo di commesse qualificate senza costi di acquisizione, entrate ricorrenti (MRR) dai contratti retainer della coorte. | Fatturano canoni mensili continuativi ai retisti e moduli software avanzati alle imprese committenti a condizioni di mercato. |
 | **LBC Advisory & Growth S.r.l.** | Metodologia proprietaria (2 Libri), coordinamento settimanale del Mastermind, contratti blindati, copertura del rischio. | Sostenibilità economica for-profit, valorizzazione del modello di advisory territoriale industriale. | Incassa quote onboarding e success-fee sui risultati incrementali netti dai retisti; fattura ed incassa i corrispettivi per gli Sprint Ariete. |
-| **La Buona Community ETS — APS** | Tutela del Manifesto Etico, gestione imparziale del Marchio Collettivo tramite Collegio dei Garanti terzi, educazione civica. | Crescita della reputazione etica del distretto, valorizzazione del lavoro dignitoso e della sostenibilità territoriale. | Raccoglie quota tesseramento istituzionale (€ 30/anno ex art. 85 c. 1 CTS) + abbonamento formazione soci (€ 30/mese ex art. 85 c. 2 lett. a CTS) e canoni licenza d'uso marchio a valore normale. |
+| **La Buona Community ETS — APS** | Tutela del Manifesto Etico, gestione imparziale del Marchio Collettivo tramite Collegio dei Garanti terzi, educazione civica. | Crescita della reputazione etica del distretto, valorizzazione del lavoro dignitoso e della sostenibilità territoriale. | Raccoglie quota tesseramento istituzionale (€ 30/anno ex art. 85 c. 1 CTS) + abbonamento formazione soci (€ 30/mese ex art. 85 c. 2 lett. a CTS) e rimborso delle sole spese vive istruttorie dei dossier di certificazione etica sostenute dai comitati tecnici. |
 
 ---
 
@@ -323,7 +323,7 @@ Il questionario è obbligatorio per tutti i professionisti candidati prima del c
   [ ] **NO, rifiuto di certificare il fatturato storico** *(Comporta l'esclusione automatica dalla candidatura)*
 
 #### Domanda 4 — Accettazione del Modello di Co-Sviluppo di Rete e Success-Fee a Scaglioni
-*"Condividi e accetti integralmente l'inquadramento contrattuale B2B (Contratto di Rete ex L. 33/2009 e L. 81/2017) con una quota fissa di onboarding di € 500,00 + IVA e un compenso variabile di advisory (success-fee) degressivo a scaglioni (10% fino a 30k, 7% da 30k a 70k, 5% oltre 70k, con Cap massimo annuo invalicabile di € 15.000,00 + IVA) calcolato unicamente sull'incremento di fatturato netto asseverato SDI al netto dei tuoi clienti storici preesistenti (Carve-out di 24 mesi)?"*
+*"Condividi e accetti integralmente l'inquadramento contrattuale B2B (Contratto di Rete ex L. 33/2009 e L. 81/2017) con una quota fissa di onboarding di € 500,00 + IVA e un compenso variabile di advisory (success-fee) degressivo a scaglioni (10% fino a 30k, 7,5% da 30k a 70k, 5% oltre 70k, con Cap massimo annuo invalicabile di € 15.000,00 + IVA) calcolato unicamente sull'incremento di fatturato netto asseverato SDI al netto dei tuoi clienti storici preesistenti (Carve-out di 24 mesi)?"*
 * [ ] **SÌ, condivido pienamente la logica meritocratica della success-fee parametrata al risultato netto reale.**
 * [ ] Desidero ricevere e analizzare la bozza contrattuale per verificare i dettagli della formula contabile.
 * [ ] **NO, preferisco pagare tariffe fisse continuative elevate e non condividere percentuali sui risultati.** *(Esclusione automatica)*

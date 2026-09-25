@@ -159,7 +159,7 @@ flowchart LR
 | :--- | :--- | :--- |
 | **Natura Giuridica** | Società a responsabilità limitata ordinaria for-profit (Codice ATECO 70.22.09). | Associazione di Promozione Sociale (APS) iscritta al RUNTS (D.Lgs. 117/2017). |
 | **Ruolo Primario** | Erogatore dei servizi di advisory, formazione B2B, ingegneria dei processi e contratti PMI. | Ente custode del Manifesto, educazione al consumo e titolare del Marchio Collettivo. |
-| **Flussi Finanziari** | Fatture per Sprint PMI (€ 2.500–€ 4.500), success-fee sui professionisti, canoni software. | Quote associative tesserati (€ 20–€ 30), donazioni, contributi per progetti sociali. |
+| **Flussi Finanziari** | Fatture per Sprint PMI (€ 2.500–€ 4.500), success-fee sui professionisti, canoni software. | Quote associative tesserati (€ 30/anno), donazioni, contributi per progetti sociali. |
 | **Regime Fiscale** | Ordinario IRES (24%), IRAP (3.9%), contabilità ordinaria d'impresa e IVA ordinaria. | Decommercializzazione istituzionale (art. 85 CTS) con divieto assoluto di utili (art. 8 CTS). |
 | **Rapporto con il Marchio** | Semplice licenziatario d'uso commerciale per i propri servizi advisory e formativi. | Titolare esclusivo e registrato del Marchio Collettivo ex art. 11 CPI. |
 | **Potere Decisionale Etico** | Nessuno. Non può concedere, sospendere o revocare il Marchio Collettivo. | Riservato in via esclusiva al Comitato dei Garanti e Probiviri terzo e indipendente. |
@@ -221,10 +221,10 @@ flowchart LR
     subgraph Roadmap_12_Mesi ["Roadmap Esecutiva LBC: Mese 1 — Mese 12"]
         direction TB
         F0["<b>FASE 0 (Mese 1)</b><br/>Setup Dual-Entity (SRL & ETS nel Q1),<br/>Marchio UIBM & Contratti di Rete"]
-        F1["<b>FASE 1 (Mese 2)</b><br/>Selezione Coorte 10 Professionisti,<br/>Asseverazione Base-Year & Training Libri"]
-        F2["<b>FASE 2 (Mese 3)</b><br/>Convenzionamento Partner IT/Marketing,<br/>Dry-Run Operativo & Antenne d'Allarme"]
-        F3["<b>FASE 3 (Mesi 4–8)</b><br/>Offerta Ariete PMI (Visita Istituzionale),<br/>10-15 Audit 90min & 5-8 Sprint 45gg"]
-        F4["<b>FASE 4 (Mesi 9–12)</b><br/>Comitato Garanti, Licenze Marchio Collettivo,<br/>Conguagli SDI Success-Fee & Coorte 2"]
+        F1["<b>FASE 1 (Mese 2)</b><br/>Selezione Coorte 10 Professionisti & Training Libri<br/><i>+ Avvio Outreach Esplorativo PMI (Bridge Cassa M3)</i>"]
+        F2["<b>FASE 2 (Mese 3)</b><br/>Convenzionamento Partner IT/Marketing,<br/>Dry-Run Operativo & Primi Audit PMI in Cassa"]
+        F3["<b>FASE 3 (Mesi 4–8)</b><br/>Offerta Ariete PMI & Sprint Processi 45gg<br/><i>• Mese 5: Attivazione Comitato Garanti<br/>• Mese 6: Conguaglio Semestrale Provvisorio Delta-Fatturato</i>"]
+        F4["<b>FASE 4 (Mesi 9–12)</b><br/>Lancio Polo Popolare ETS, Licenze Marchio Collettivo,<br/>Conguaglio Annuale Definitivo & Coorte 2"]
         
         F0 --> F1 --> F2 --> F3 --> F4
     end
@@ -237,10 +237,10 @@ flowchart LR
 * **Obiettivo Primario**: Costituzione formale dei veicoli giuridici nel Q1, blindatura dei rischi e completamento dei materiali metodologici proprietari prima di qualsiasi interazione sul mercato.
 * **Attività Operative**:
   1. *Costituzione notarile di LBC Advisory & Growth S.r.l.*: redazione dell'atto costitutivo e statuto (ATECO 70.22.09, P.IVA ordinaria, capitale sociale versato).
-  2. *Costituzione di La Buona Community ETS / APS e Deposito Marchio nel Q1*: registrazione statuto conforme al D.Lgs. 117/2017 (CTS), adozione del divieto assoluto di distribuzione utili (art. 8 CTS), avvio della pratica di iscrizione al RUNTS e deposito presso l'UIBM del Marchio Collettivo ex art. 11 CPI con Disciplinare conforme al D.Lgs. 30/2026, prevenendo contestazioni di elusione e promiscuità fiscale ex art. 149 TUIR.
-  3. *Formalizzazione del Contratto di Rete & Accordo Quadro B2B*: predisposizione del testo definitivo dell'Accordo di Co-Sviluppo Strategico conforme alle L. 33/2009 e L. 81/2017, con totale esclusione di vincoli societari di fatto o presunzioni di subordinazione.
+  2. *Costituzione di La Buona Community ETS / APS e Deposito Marchio nel Q1*: registrazione statuto conforme al D.Lgs. 117/2017 (CTS), adozione del divieto assoluto di distribuzione utili (art. 8 CTS), avvio della pratica di iscrizione al RUNTS e deposito presso l'UIBM del Marchio Collettivo ex art. 11 CPI con Disciplinare conforme alla normativa di recepimento della Direttiva (UE) 2024/825, prevenendo contestazioni di elusione e promiscuità fiscale ex art. 149 TUIR.
+  3. *Formalizzazione del Contratto di Rete & Accordo Quadro B2B*: predisposizione del master contract [`CONTRATTO_DI_RETE_LBC_NETWORK.md`](file:///c:/Users/MARIO/Downloads/LBC%20La%20Buona%20Community/CONTRATTO_DI_RETE_LBC_NETWORK.md) conforme alle L. 33/2009 e L. 81/2017, con Fondo Patrimoniale Comune segregato ex art. 2615 c.c., codatorialità ex art. 30 c. 4-ter D.Lgs. 276/03 e totale esclusione di vincoli societari di fatto o presunzioni di subordinazione.
   4. *Redazione e Pubblicazione dei Playbook Operativi dei 2 Libri Fondativi*: completamento dei testi integrali di *"L'Ecosistema Emotivo"* e *"Il Pensiero Critico"* per il curriculum formativo della Coorte.
-  5. *Predisposizione del Kit di Blindatura Contrattuale*: DPA ex art. 28 GDPR con protocollo di k-anonymity ($k \ge 20$), NDA di distretto, clausola di liability cap e onere preventivo di backup per i clienti industriali.
+  5. *Predisposizione del Kit di Blindatura Contrattuale*: DPA ex art. 28 GDPR con protocollo di k-anonymity ($k \ge 20$), NDA di distretto, clausola di liability cap equilibrato e onere preventivo di backup per i clienti industriali.
 * **Deliverable di Fase**:
   * Visura camerale LBC Advisory & Growth S.r.l., registrazione Statuto ETS e ricevuta deposito Marchio Collettivo UIBM.
   * Testo contrattuale standard con doppia firma formale per clausole onerose (artt. 1341–1342 c.c.).
@@ -249,59 +249,65 @@ flowchart LR
 
 ---
 
-### FASE 1: Reclutamento, Selezione & Certificazione della Coorte Pilota (Mese 2)
+### FASE 1: Reclutamento, Selezione & Certificazione Coorte con Outreach Esplorativo PMI Anticipato (Mese 2)
 
-* **Obiettivo Primario**: Selezionare, allineare e certificare i 10 professionisti complementari destinati a costituire la prima task force distrettuale di LBC.
+* **Obiettivo Primario**: Selezionare, allineare e certificare i 10 professionisti complementari della prima task force distrettuale di LBC e avviare in parallelo la prospezione esplorativa sulle PMI per neutralizzare il gap di cassa del Mese 3.
 * **Attività Operative**:
   1. *Lancio della Call Selettiva Territoriale*: pubblicazione della selezione per 10 posizioni ad architettura complementare (3 Operations, 2 Vendite B2B, 2 Finance, 2 Digital/Low-code, 1 HR).
-  2. *Screening con Questionario a 7 Domande*: somministrazione del filtro con verifica vincolante dell'idoneità contabile all'asseverazione del Base-Year, accettazione della success-fee degressiva (10% Anno 1 -> 7.5% Anno 2 -> 5% a regime, con scaglioni di salvaguardia e Cap a € 15.000), presenza settimanale e adesione al Manifesto Etico.
+  2. *Screening con Questionario a 7 Domande*: somministrazione del filtro con verifica vincolante dell'idoneità contabile all'asseverazione del Base-Year, accettazione della success-fee degressiva (10% Anno 1 con scaglione intermedio 7,5% -> 7,5% Anno 2 -> 5% a regime, con scaglioni di salvaguardia e Cap a € 15.000), presenza settimanale e adesione al Manifesto Etico.
   3. *Colloqui Clinici di Selezione & Griglia a 100 Punti*: ammissione vincolata al raggiungimento di almeno 80/100 punti (zero ammissioni per deroga).
-  4. *Certificazione Documentale del Fatturato Base-Year*: asseverazione del volume d'affari degli ultimi 12 mesi solari rilasciata dal commercialista del candidato su dati SDI netti come condizione sospensiva di efficacia ex art. 1353 c.c.
+  4. *Certificazione Documentale del Fatturato Base-Year con Clausola Antielusiva Estesa*: asseverazione del volume d'affari degli ultimi 12 mesi solari rilasciata dal commercialista del candidato su dati SDI netti come condizione sospensiva di efficacia ex art. 1353 c.c., estesa a controllate e ditte familiari per prevenire dispersioni di fatturato incrementale.
   5. *Accademia Intensiva Residenziale sui 2 Libri (3 Giorni)*: addestramento pratico dei 10 professionisti con simulazioni di telemetria emotiva, scomposizione First Principles e checklist zero-bias.
-  6. *Sottoscrizione del Patto Contrattuale & Attivazione Abbonamento Servizi*: firma dell'Accordo di Co-Sviluppo B2B con versamento della quota di iscrizione/onboarding (€ 500 + IVA) e sottoscrizione dell'opzione per il canone in abbonamento agevolato ai servizi tecnici dei partner, con clausola di decadenza in caso di assenze > 15%.
+  6. *Sottoscrizione del Patto Contrattuale & Attivazione Abbonamento Servizi*: firma dell'Accordo di Co-Sviluppo B2B e adesione al Contratto di Rete con versamento della quota di iscrizione/onboarding (€ 500 + IVA) e sottoscrizione dell'opzione per il canone in abbonamento agevolato ai servizi tecnici dei partner, con clausola di decadenza in caso di assenze > 15%.
+  7. *Avvio Anticipato della Prospezione Esplorativa PMI (Bridge Cashflow Gap Mese 3)*: la direzione LBC avvia già durante la seconda metà del Mese 2 i primi contatti fiduciari ed esplorativi ("Visite Istituzionali di Cortesia") verso una lista preselezionata di 15 PMI del distretto. Questo anticipo colma il naturale disallineamento temporale (lag di fatturazione), garantendo che i primi Audit diagnostici a pagamento e le prime commesse Sprint Ariete generino cassa attiva già all'inizio del Mese 3 anziché al Mese 4.
 * **Deliverable di Fase**:
   * Registro dei 10 Professionisti Accreditati con asseverazione Base-Year agli atti.
   * Contratti sottoscritti con doppia firma ex artt. 1341–1342 c.c. e vincolo di permanenza.
+  * Pipeline preliminare di 15 PMI distrettuali contattate con pre-prenotazione di 4-6 sessioni di audit.
   * Attestato interno di superamento dell'Accademia Metodologica LBC.
-* **Metrica di Passaggio (Gate 1)**: Coorte dei 10 completa, asseverata e certificata sui 2 libri entro il giorno 60.
+* **Metrica di Passaggio (Gate 1)**: Coorte dei 10 completa, asseverata e certificata sui 2 libri entro il giorno 60, con pipeline commerciale iniziale già calda per il Mese 3.
 
 ---
 
 ### FASE 2: Convenzionamento Partner IT/Marketing & Simulazioni sul Campo (Mese 3)
 
-* **Obiettivo Primario**: Federare le prime 3–4 aziende partner tecnologiche e creative con modello in abbonamento mensile, rodare la task force su 2 casi pilota e attivare le antenne d'allarme precoci.
+* **Obiettivo Primario**: Federare le prime 3–4 aziende partner tecnologiche e creative con modello in abbonamento mensile, rodare la task force su 2 casi pilota e convertire i contatti esplorativi avviati nel Mese 2 in primi incassi di cassa per LBC S.r.l.
 * **Attività Operative**:
   1. *Stipula Contratti "Tech & Growth Retainer LBC" in Abbonamento*: convenzionamento con Software House, Agenzia Automazioni Low-Code, Studio Grafico e Agenzia Marketing B2B, strutturando pacchetti in abbonamento continuativo (€ 150–€ 250/mese per i professionisti) vincolati alla presenza comunitaria attiva.
   2. *Integrazione dello Stack Software Proprietario*: rilascio ai 10 professionisti delle licenze convenzionate, dei connettori software attivi (Make, n8n, CRM) e dei modelli grafici.
   3. *Dry-Run Operativo su 2 Casi Aziendali Simulati (Stress-Test del Metodo)*:
      * *Caso 1 (Manifattura)*: simulazione completa dell'Audit di 90 minuti su un'officina meccanica amica del territorio con identificazione del vincolo e restituzione su lavagna.
      * *Caso 2 (Servizi/Logistica)*: simulazione di gestione commessa con handover tra professionista commerciale, ingegnere di processo e partner IT.
-  4. *Attivazione delle 6 Antenne d'Allarme Precoci*: configurazione del cruscotto di monitoraggio delle presenze (trigger allarme < 80%), dei tempi di risposta dei partner (< 48h) e dei livelli di engagement nei meeting.
-  5. *Istituzione della "Cena Mensile dei Fondatori"*: avvio del format riservato serale dedicato al confronto tra pari per consolidare la coesione del gruppo.
+  4. *Monetizzazione dei Primi 2-3 Audit PMI Reali (Risoluzione Gap di Liquidità Mese 3)*: esecuzione anticipata dei primi interventi diagnostici e contrattualizzazione dei primi acconti di Sprint Ariete (€ 2.500–€ 4.500 + IVA) generati dai contatti esplorativi avviati nel Mese 2, garantendo cassa positiva immediata per la SRL.
+  5. *Attivazione delle 6 Antenne d'Allarme Precoci*: configurazione del cruscotto di monitoraggio delle presenze (trigger allarme < 80%), dei tempi di risposta dei partner (< 48h) e dei livelli di engagement nei meeting.
+  6. *Istituzione della "Cena Mensile dei Fondatori"*: avvio del format riservato serale dedicato al confronto tra pari per consolidare la coesione del gruppo.
 * **Deliverable di Fase**:
   * 4 Accordi di Convenzione in Abbonamento sottoscritti con le aziende partner interne.
+  * Primi 2-3 contratti di Sprint PMI firmati con incasso degli acconti del 50%.
   * Report documentato dei 2 audit pilota simulati con validazione del tempo ciclo.
   * Cruscotto operativo di monitoraggio delle 6 antenne d'allarme configurato.
-* **Metrica di Passaggio (Gate 2)**: Flussi di lavoro tra professionisti e partner tecnici collaudati con tempo di risposta < 48h e canoni di abbonamento attivi.
+* **Metrica di Passaggio (Gate 2)**: Flussi di lavoro tra professionisti e partner tecnici collaudati con tempo di risposta < 48h, canoni di abbonamento attivi e gap di cassa del Mese 3 azzerato.
 
 ---
 
-### FASE 3: Apertura Territoriale e Attivazione Offerta Ariete sulle PMI (Mesi 4 — 8)
+### FASE 3: Apertura Territoriale, Attivazione Comitato Garanti (Mese 5) e Conguaglio Semestrale (Mese 6) (Mesi 4 — 8)
 
-* **Obiettivo Primario**: Penetrare il distretto industriale pilota, erogare i primi 10–15 audit diagnostici in azienda e chiudere 5–8 Sprint Risolutivi, generando cassa e primi casi studio reali.
+* **Obiettivo Primario**: Scalare l'erogazione degli Sprint Risolutivi sulle PMI, attivare operativamente il Comitato dei Garanti al Mese 5 prima della scadenza del Lock-in ed eseguire il primo conguaglio provvisorio semestrale al Mese 6 per mitigare il churn dei partner.
 * **Attività Operative**:
-  1. *Campagna Territoriale "Visita Istituzionale di Cortesia"*: approccio telefonico e personale di 30 PMI target (manifattura, logistica, food da 5M€ a 30M€) condotto dalla direzione LBC, invitando il titolare a una sessione conoscitiva a porte chiuse senza alcuna vendita a freddo.
-  2. *Esecuzione di 10–15 Audit Diagnostici in Presenza (90 Minuti)*: conduzione degli incontri in azienda applicando la Telemetria Emotiva (Libro 1) e la Camminata di Fabbrica (Gemba Walk).
-  3. *Contrattualizzazione di 5–8 Sprint Risolutivi (30–45 Giorni)*: chiusura dei contratti di riorganizzazione operativa (€ 2.500–€ 4.500 + IVA) con clausola di liability cap e garanzia etica a rischio zero.
-  4. *Deployment delle Task Force sul Campo*: esecuzione degli sprint affiancando i professionisti della coorte alle PMI e integrando i moduli tecnici in abbonamento delle aziende partner interne (automazioni e cruscotti).
-  5. *Rendicontazione dei Primi Risultati e Incasso Cassa*: incasso delle fatture di consulenza, documentazione delle ore recuperate (>10h/settimana per titolare) e primo monitoraggio del delta-fatturato generato per i professionisti.
+  1. *Campagna Territoriale Estesa "Visita Istituzionale di Cortesia"*: contatto continuativo di 30 PMI target del distretto, con esecuzione di 10–15 Audit Diagnostici in Presenza (90 Minuti) e protocollo Teoria dei Vincoli.
+  2. *Esecuzione degli Sprint Risolutivi con Protocollo "Fast Win 14 Giorni"*: applicazione del modulo di 30–45 giorni con milestone rigida: conferma del vincolo al Giorno 5 e rilascio della prima SOP monopagina con dashboard visiva entro il Giorno 14, garantendo ROI immediato.
+  3. *Attivazione Operativa Anticipata del Comitato dei Garanti e Probiviri (Mese 5)*: anticipazione dell'insediamento formale dell'organo di garanzia terzo dell'ETS al Mese 5 (anziché al Q4). Il Comitato avvia le prime sessioni istruttorie di conformità etica, offrendo ai retisti della Coorte la tangibile prova dell'affidabilità dell'intero ecosistema prima che scada il periodo di lock-in obbligatorio.
+  4. *Conguaglio Provvisorio Semestrale del Delta-Fatturato (Mese 6)*: allo scadere del 6° mese (coincidente con la fine del Lock-in convenzionale), LBC esegue una prima rendicontazione provvisoria semestrale sui dati SDI del Q1 e Q2. La liquidazione degli acconti di Success Fee e l'emersione dei primi guadagni netti tangibili consolidano l'ingaggio dei professionisti, abbattendo drasticamente il rischio di disaffezione o abbandono post-lock-in.
+  5. *Deployment delle Task Force sul Campo*: prosecuzione degli sprint con codatorialità registrata e distacco ex art. 30 c. 4-ter D.Lgs. 276/2003 e Circolare INL 7/2018.
   6. *Realizzazione del Primo Video-Caso Studio di Distretto*: produzione di un contenuto documentale di alto impatto che testimonia la risoluzione di un collo di bottiglia reale in un'azienda storica della provincia.
 * **Deliverable di Fase**:
   * 12 Verbali di Audit Diagnostico dei 90 minuti compilati e archiviati.
   * 6 Contratti di Sprint Risolutivo firmati ed eseguiti con successo.
-  * € 15.000 — € 25.000 di fatturato di consulenza incassato da LBC Advisory & Growth S.r.l.
+  * Verbale di insediamento e prime delibere istruttorie del Comitato dei Garanti (Mese 5).
+  * Prospetti contabili del conguaglio semestrale provvisorio Mese 6 condivisi con i 10 retisti.
+  * € 18.000 — € 28.000 di fatturato complessivo di consulenza incassato da LBC Advisory & Growth S.r.l.
   * Primo video-caso studio pubblicato sui canali professionali territoriali.
-* **Metrica di Passaggio (Gate 3)**: Almeno 5 PMI con problemi di flusso risolti, 100% di garanzie etiche superate senza recessi e prime quote di revenue share fatturate ai professionisti.
+* **Metrica di Passaggio (Gate 3)**: Almeno 5 PMI con problemi di flusso risolti, 100% di garanzie etiche superate, Comitato Garanti attivo al Mese 5 e churn dei partner azzerato al Mese 6.
 
 ---
 

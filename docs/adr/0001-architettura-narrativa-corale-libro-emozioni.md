@@ -1,0 +1,3 @@
+# 0001 — Architettura Narrativa Corale a Filiera di Distretto per il Libro Emozioni
+
+Nel definire la struttura del libro "Le Emozioni Arrivano Prima di Noi", abbiamo stabilito che i protagonisti cambieranno di capitolo in capitolo ma saranno interconnessi attraverso un'unica filiera economica e industriale di distretto (rapporti cliente-fornitore, partner, commesse condivise), invece di seguire un unico protagonista o raccogliere storie completamente isolate. Questa scelta massimizza la credibilità sistemica, rispecchia l'ecosistema integrato di LBC e consente di esplorare prospettive gerarchiche e di reparto differenti mantenendo una forte coerenza d'insieme.

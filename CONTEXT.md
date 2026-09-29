@@ -17,4 +17,6 @@ Glossario di dominio e concetti cardine per l'ecosistema economico e istituziona
 - **Struttura Tripartita Invariante (Canone Cap. 1)**: Modello a 5 atti per ogni capitolo: Innesco narrativo situato ➔ Terzo neutrale (disciplina della telecamera) ➔ Decodifica scientifica (Lazarus, Damasio, Barrett, Kahneman, Porges) ➔ Ritorno nella stanza (azione di de-escalation operativa) ➔ Apparati pratici (Esercizio in 7 punti e Registro continuità).
 - **Ecosistema Narrativo Corale**: Tecnica narrativa in cui i protagonisti cambiano di capitolo in capitolo, ma appartengono allo stesso tessuto industriale e distrettuale, intrecciando relazioni di commessa, fornitura o reparto.
 - **Telemetria Emotiva**: Lettura oggettiva dell'emozione non come problema psicologico individuale, ma come segnale tempestivo di un flusso informativo, operativo o gerarchico interrotto.
+- **Dossier di Distretto Pre-Audit**: Indagine strutturata di intelligence territoriale ed economico-finanziaria condotta su fonti aperte e camerali prima dell'Audit di 90 Minuti per mappare la filiera e i potenziali colli di bottiglia dell'impresa target.
+- **Red Team Contrarian**: Metodologia di stress-test e simulazione del contraddittorio con il committente PMI o con gli enti ispettivi, volta a validare la tenuta psicologica, commerciale e fiscale dell'offerta LBC prima dell'ingresso in azienda.
 

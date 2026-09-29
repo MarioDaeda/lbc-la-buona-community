@@ -48,9 +48,13 @@ Girare sempre su oggetti fisici reali: lega 7075-T6, olio emulsionabile andato a
 | Consulente finanziario (non nominato) | Verifica interna | — | cursore Excel | distinzioni (controllo tecnico vs responsabilità decisionale) | esterno, non sbilancia |
 | Paolo Zantedeschi | Auditore esterno (Atto IV) | — | — | — | audit mirato sulle 2 voci (ven→lun 18:00), tetto 4.200€ con doppia firma elettronica |
 | Guidotti | Cliente, ordine da firmare | — | — | — | scadenza martedì prossimo |
+| Marco Vantini | CEO NexSys Solutions (30 aa., 18 dip., scale-up MES/IoT); cassa: burn 42.500€/mese netto, uscite 138.000€, saldo 12.740€; fido ponte 300k€ Fondo Centrale | Cap. 3 (bozza, riscritto) | tamburo nel petto a 130 bpm, fitta acida alla bocca dello stomaco, tunnel visivo sulla riga, MacBook in alluminio spazzolato | catastrofizzazione a catena, conta parole sbagliata (41 vs 45), PEC/diffide notturne | sindrome dell'impostore; ricaduta prevista Cap. 5 (crash notturno 02:15) |
+| Giulia | Partner domestica di Marco, post-doc biochimica cellulare (Verona) | Cap. 3 | telefono confiscato nella tasca con zip, dita guantate che contano le parole | metafore di laboratorio (pH del terreno, corpi apoptotici), zero gergo psicologico | specchio intimo de-ventriloquizzato (audit 2026-09-28): mai "telecamera" né assiomi del libro |
+| Bignami / Marangoni | Area Crediti / analista Comitato Rischi, Banca Popolare del Distretto | Cap. 3 | fascicolo spesso quattro dita, penna a mezz'aria | voce istituzionale, vincoli normativi esposti in dettaglio | la banca salva la faccia: "cercavamo di blindare la pratica" |
 
 ## Esiti red-teaming (registro di continuità)
 
 | Capitolo | Frattura | Accordo dell'Atto IV | Verdetto | Vincolo che tiene |
 |---|---|---|---|---|
 | 1 | Accentratore vs Delega | Contratto di Salvaguardia di Processo (riscritto 2026-09-28): audit mirato Zantedeschi sulle 2 voci (ven→lun 18:00), cap 4.200€ con doppia firma elettronica (matrice >3k€), esito predefinito −15% avviamento, regola permanente seconda firma >100k€, penali Guidotti 2‰/giorno, ordine valido al 15 | YES-BUT (Fase 4) | firme elettroniche datate + scadenza con esito predefinito + penali che rendono lo stallo più caro dell'audit |
+| 3 | Panico da anticipazione (cassa) | Contraddiffida mai partita; controfirma capofila Omnia con marca temporale (FCG-2026-B) entro mer 10:00; delibera esecutiva giovedì; stipendi 50/50 con A4 intestato firmato, anticipi infraday per la rata del mutuo (Bortoluzzi), saldo lunedì con interessi a carico azienda | YES-BUT | vincolo normativo Fondo Centrale (circolare 4.0) + marca temporale + clausola scritta stipendi in copia a testa; apprendimento di Marco limitato al momento (compatibile Cap. 5) |
